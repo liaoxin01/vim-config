@@ -87,7 +87,7 @@ hi Title ctermfg=15 ctermbg=NONE cterm=bold guifg=#f8f8f2 guibg=NONE gui=bold
 hi Todo ctermfg=95 ctermbg=NONE cterm=inverse,bold guifg=#75715e guibg=NONE gui=inverse,bold
 " hi Type ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE gui=NONE
 " hi Type ctermfg=27 ctermbg=NONE cterm=NONE guifg=#66d9ef guibg=NONE gui=NONE
-hi Type ctermfg=27 ctermbg=NONE cterm=NONE guifg=#409fff guibg=NONE gui=NONE
+hi Type ctermfg=39 ctermbg=NONE cterm=NONE guifg=#409fff guibg=NONE gui=NONE
 hi Underlined ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
 hi Exception ctermfg=81 ctermbg=NONE cterm=NONE guifg=#66d9ef guibg=NONE gui=NONE
 hi Typedef ctermfg=81 ctermbg=NONE cterm=NONE guifg=#66d9ef guibg=NONE gui=NONE
